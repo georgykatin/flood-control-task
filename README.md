@@ -16,7 +16,10 @@
 
 ```git clone https://github.com/georgykatin/flood-control-task ```
 
-Запустить докер контейнеры 
+Запустить докер контейнер
 
 ```docker-compose up --build ```
 
+Запустить проект 
+
+``` go run main.go ```
