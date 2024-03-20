@@ -31,6 +31,7 @@ func main() {
 		} else {
 			fmt.Println("Request denied for")
 		}
+		time.Sleep(250 * time.Millisecond)
 	}
 }
 
